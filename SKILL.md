@@ -1,8 +1,8 @@
 ---
 name: investment-masters
 description: >
-  Investment master methodology distillation. Extract core principles from 10 top
-  fund managers (Buffett, Dalio, Simons, Soros, Marks, etc.), track their 13F holdings,
+  Investment master methodology distillation. Extract core principles from 15 top
+  fund managers (Buffett, Dalio, Simons, Soros, Marks, Lynch, Druckenmiller, etc.), track their 13F holdings,
   compare philosophies, and map insights to your own strategy. Use when: learning
   investment frameworks, analyzing a master's approach, checking institutional holdings,
   writing investment research, comparing risk management styles.
@@ -15,7 +15,7 @@ globs:
 
 # Investment Masters
 
-Distill investment philosophies from 10 top fund managers into actionable frameworks.
+Distill investment philosophies from 15 top fund managers into actionable frameworks.
 
 ## What This Skill Does
 
@@ -27,7 +27,7 @@ Distill investment philosophies from 10 top fund managers into actionable framew
 | **Map to Strategy** | Show how each master's principles translate to systematic, quantifiable rules |
 | **Generate Content** | Output analysis as research reports, articles, or structured notes |
 
-## The 10 Masters
+## The 15 Masters
 
 | # | Master | Style | Key Source |
 |---|--------|-------|-----------|
@@ -41,6 +41,11 @@ Distill investment philosophies from 10 top fund managers into actionable framew
 | 8 | **Howard Marks** | Cycles / Second-level thinking | *The Most Important Thing* + memos |
 | 9 | **Hillhouse (Zhang Lei)** | Long-termism / China | *Value* |
 | 10 | **ARK (Wood)** | Disruptive innovation | Big Ideas annual report |
+| 11 | **Duan Yongping** | Value / 本分 / Circle of competence | Xueqiu essays, 2006 Buffett lunch |
+| 12 | **Peter Lynch** | GARP / Invest in what you know | *One Up on Wall Street* |
+| 13 | **Druckenmiller** | Macro / Concentrated asymmetric bets | Quantum Fund, Duquesne interviews |
+| 14 | **Liang Wenfeng (High-Flyer)** | Quant / AI-driven | 幻方量化 + DeepSeek |
+| 15 | **Linda Raschke** | Short-term technical / Swing | *Street Smarts*, Market Wizards |
 
 ## How to Use
 
@@ -85,7 +90,7 @@ What did Bridgewater buy/sell last quarter?
 ### Generate Research
 
 ```
-Write a research report on the 5 common principles across all 10 masters
+Write a research report on the 5 common principles across all 15 masters
 ```
 
 ```
@@ -94,7 +99,7 @@ Draft an article on how Marks' cycle theory applies to today's market
 
 ## 5 Common Principles
 
-Despite radically different styles, all 10 masters converge on these:
+Despite radically different styles, all 15 masters converge on these:
 
 ### 1. Systems Over Intuition
 Dalio built the All-weather system. Simons built quantitative models. AQR built factor frameworks. **The best investors don't rely on gut feeling -- they build repeatable systems.**
@@ -142,7 +147,7 @@ Dalio built the All-weather system. Simons built quantitative models. AQR built 
 
 ## Related
 
-- [AlphaGBM Skills](https://github.com/AlphaGBM/skills) -- 15 AI skills for options intelligence with real market data
+- [AlphaGBM Skills](https://github.com/AlphaGBM/skills) -- 26 AI skills for options intelligence with real market data
 
 ---
 

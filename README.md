@@ -4,17 +4,17 @@
 
 **Distill investment wisdom from the world's best fund managers.**
 
-*10 masters' methodologies + 13F tracking, built for AI agents and human investors*
+*15 masters' methodologies + 13F tracking, built for AI agents and human investors*
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Masters](https://img.shields.io/badge/masters-10-green.svg)](#the-10-masters) [![13F](https://img.shields.io/badge/13F-SEC%20EDGAR-orange.svg)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=13F)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Masters](https://img.shields.io/badge/masters-15-green.svg)](#the-15-masters) [![13F](https://img.shields.io/badge/13F-SEC%20EDGAR-orange.svg)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=13F)
 
-[Quick Start](#quick-start) · [The 10 Masters](#the-10-masters) · [5 Common Principles](#5-common-principles) · [AlphaGBM Skills](https://github.com/AlphaGBM/skills)
+[Quick Start](#quick-start) · [The 15 Masters](#the-15-masters) · [5 Common Principles](#5-common-principles) · [AlphaGBM Skills](https://github.com/AlphaGBM/skills)
 
 </div>
 
 ## What Is This?
 
-The best "open-source code" in investing is the public record: shareholder letters, SEC filings, books, interviews, and memos. This repo distills **10 top fund managers' methodologies** into structured, actionable profiles that any AI agent or human can use.
+The best "open-source code" in investing is the public record: shareholder letters, SEC filings, books, interviews, and memos. This repo distills **15 top fund managers' methodologies** into structured, actionable profiles that any AI agent or human can use.
 
 This is not "AI roleplay as Buffett." This is **methodology extraction** -- understanding *why* they buy, *how* they manage risk, and *when* they exit.
 
@@ -52,7 +52,7 @@ Then ask your AI:
 >
 > "Write a research report on the 5 common principles"
 
-## The 10 Masters
+## The 15 Masters
 
 | # | Master | Style | Profile |
 |---|--------|-------|---------|
@@ -66,10 +66,15 @@ Then ask your AI:
 | 8 | **[Howard Marks](masters/howard_marks.md)** | Cycles / Second-level thinking | The Most Important Thing + memos |
 | 9 | **[Hillhouse (Zhang Lei)](masters/hillhouse.md)** | Long-termism / China | Value |
 | 10 | **[ARK (Wood)](masters/ark.md)** | Disruptive innovation | Big Ideas report |
+| 11 | **[Duan Yongping](masters/duan_yongping.md)** | Value / 本分 / Circle of competence | Xueqiu essays, Buffett lunch |
+| 12 | **[Peter Lynch](masters/lynch.md)** | GARP / Invest in what you know | *One Up on Wall Street* |
+| 13 | **[Druckenmiller](masters/druckenmiller.md)** | Macro / Concentrated asymmetric bets | Quantum Fund, Duquesne |
+| 14 | **[Liang Wenfeng (High-Flyer)](masters/liang_wenfeng.md)** | Quant / AI-driven | 幻方量化 + DeepSeek |
+| 15 | **[Linda Raschke](masters/raschke.md)** | Short-term technical / Swing | *Street Smarts*, Market Wizards |
 
 ## 5 Common Principles
 
-Despite radically different styles, all 10 converge on these:
+Despite radically different styles, all 15 converge on these:
 
 1. **Systems Over Intuition** -- Dalio built All-weather. Simons built quant models. AQR built factor frameworks. The best investors don't rely on gut feeling.
 
@@ -121,8 +126,13 @@ investment-masters/
     ├── ark.md
     ├── bridgewater.md
     ├── buffett.md
+    ├── druckenmiller.md
+    ├── duan_yongping.md
     ├── hillhouse.md
     ├── howard_marks.md
+    ├── liang_wenfeng.md
+    ├── lynch.md
+    ├── raschke.md
     ├── renaissance.md
     ├── soros.md
     └── tepper.md
@@ -130,7 +140,7 @@ investment-masters/
 
 ## Related
 
-- **[AlphaGBM Skills](https://github.com/AlphaGBM/skills)** -- 16 AI skills for options intelligence with real market data
+- **[AlphaGBM Skills](https://github.com/AlphaGBM/skills)** -- 26 AI skills for options intelligence with real market data
 - **[AlphaGBM](https://alphagbm.com)** -- Full platform: stock analysis, options scoring, strategy builder
 
 ## Contributing
