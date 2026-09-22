@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "alphagbm-masters-catalog.v1",
+  "repository": "https://github.com/AlphaGBM/investment-masters",
+  "skill": "investment-masters",
+  "defaultCount": 4,
+  "masters": [
+    {"id":"buffett","name":{"zh":"巴菲特","en":"Warren Buffett"},"focus":{"zh":"价值投资","en":"Value investing"},"path":"masters/buffett.md"},
+    {"id":"druckenmiller","name":{"zh":"德鲁肯米勒","en":"Stanley Druckenmiller"},"focus":{"zh":"宏观交易","en":"Macro trading"},"path":"masters/druckenmiller.md"},
+    {"id":"lynch","name":{"zh":"彼得·林奇","en":"Peter Lynch"},"focus":{"zh":"成长选股","en":"Growth investing"},"path":"masters/lynch.md"},
+    {"id":"bridgewater","name":{"zh":"达利欧","en":"Ray Dalio"},"focus":{"zh":"资产配置","en":"Asset allocation"},"path":"masters/bridgewater.md"},
+    {"id":"duan_yongping","name":{"zh":"段永平","en":"Duan Yongping"},"focus":{"zh":"能力圈","en":"Circle of competence"},"path":"masters/duan_yongping.md"},
+    {"id":"howard_marks","name":{"zh":"霍华德·马克斯","en":"Howard Marks"},"focus":{"zh":"周期与风险","en":"Cycles and risk"},"path":"masters/howard_marks.md"},
+    {"id":"tepper","name":{"zh":"大卫·泰珀","en":"David Tepper"},"focus":{"zh":"逆向投资","en":"Contrarian investing"},"path":"masters/tepper.md"},
+    {"id":"raschke","name":{"zh":"琳达·拉施克","en":"Linda Raschke"},"focus":{"zh":"短线交易","en":"Short-term trading"},"path":"masters/raschke.md"},
+    {"id":"ark","name":{"zh":"凯西·伍德","en":"Cathie Wood"},"focus":{"zh":"颠覆式创新","en":"Disruptive innovation"},"path":"masters/ark.md"},
+    {"id":"soros","name":{"zh":"乔治·索罗斯","en":"George Soros"},"focus":{"zh":"反身性","en":"Reflexivity"},"path":"masters/soros.md"},
+    {"id":"ackman","name":{"zh":"比尔·阿克曼","en":"Bill Ackman"},"focus":{"zh":"集中与事件驱动","en":"Concentrated, event-driven investing"},"path":"masters/ackman.md"},
+    {"id":"renaissance","name":{"zh":"吉姆·西蒙斯","en":"Jim Simons"},"focus":{"zh":"量化研究","en":"Quantitative research"},"path":"masters/renaissance.md"},
+    {"id":"aqr","name":{"zh":"克利夫·阿斯内斯","en":"Cliff Asness"},"focus":{"zh":"因子投资","en":"Factor investing"},"path":"masters/aqr.md"},
+    {"id":"hillhouse","name":{"zh":"张磊","en":"Zhang Lei"},"focus":{"zh":"长期价值","en":"Long-term value"},"path":"masters/hillhouse.md"},
+    {"id":"liang_wenfeng","name":{"zh":"梁文锋","en":"Liang Wenfeng"},"focus":{"zh":"人工智能与量化","en":"AI and quantitative research"},"path":"masters/liang_wenfeng.md"}
+  ]
+}
