@@ -4,13 +4,23 @@
 
 **Distill investment wisdom from the world's best fund managers.**
 
-*15 masters' methodologies + 13F tracking, built for AI agents and human investors*
+*15 investing perspectives, built for AI agents and human investors*
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Masters](https://img.shields.io/badge/masters-15-green.svg)](#the-15-masters) [![13F](https://img.shields.io/badge/13F-SEC%20EDGAR-orange.svg)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=13F)
 
 [Quick Start](#quick-start) · [The 15 Masters](#the-15-masters) · [5 Common Principles](#5-common-principles) · [AlphaGBM Skills](https://github.com/AlphaGBM/skills)
 
 </div>
+
+## Think Like Investing Legends
+
+Start with Buffett (value), Druckenmiller (macro trading), Lynch (growth) or Dalio (asset allocation). All 15 profiles are included in one Skill; the first four are discovery defaults, not a performance ranking. The bilingual [catalogue](catalog.json) also drives the AlphaGBM website's compact list.
+
+Ask naturally: “Use investment-masters to examine this company through Buffett's value-investing lens. Separate supplied evidence from facts still needing verification.”
+
+中文：像投资大师一样思考。默认展示巴菲特、德鲁肯米勒、彼得·林奇、达利欧，可展开全部15种视角。直接说：“请用 investment-masters，借鉴巴菲特的价值投资方法研究我提供的公司，区分已有证据和待核实信息。”
+
+This is a free methodology package, not investor endorsement, a live-data service or an automated 13F monitor. Current data requires an available retrieval tool or a supported [AlphaGBM Skill](https://github.com/AlphaGBM/skills) with its own access and shared-account allowance. Never paste an API key into a conversation. Missing data stays missing.
 
 ## What Is This?
 
