@@ -1,0 +1,19 @@
+{
+  "demo": {
+    "status": "illustrative_fixture",
+    "asOf": "2026-09-22",
+    "notForTrading": true
+  },
+  "schemaVersion": "investment-masters-demo.v1",
+  "defaultProfiles": [
+    {"id": "buffett", "name": "Warren Buffett", "focus": "Value investing"},
+    {"id": "druckenmiller", "name": "Stanley Druckenmiller", "focus": "Macro trading"},
+    {"id": "lynch", "name": "Peter Lynch", "focus": "Growth investing"},
+    {"id": "bridgewater", "name": "Ray Dalio", "focus": "Asset allocation"}
+  ],
+  "profileCount": 15,
+  "outputBoundary": {
+    "includes": ["methodology lens", "source-aware questions", "limitations"],
+    "doesNotInclude": ["live holdings", "automatic 13F refresh", "performance promise"]
+  }
+}
