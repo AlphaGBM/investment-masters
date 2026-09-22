@@ -34,9 +34,9 @@ This is not "AI roleplay as Buffett." This is **methodology extraction** -- unde
 |--|-------------------|---------------------|----------------------|
 | Source | LLM training data | News feeds | **Primary sources: letters, 13F, books, memos** |
 | Depth | Surface-level quotes | Price alerts | **Full methodology: selection, sizing, risk, exit** |
-| Verifiable | "Buffett would say..." | N/A | **Every claim has a source citation** |
+| Evidence | "Buffett would say..." | Varies | **Profiles list sources; verify current claims against the original material** |
 | Actionable | Entertainment | Information | **Maps to systematic investment rules** |
-| 13F Tracking | No | No | **Quarterly holdings with CIK links** |
+| Filing research | Varies | Varies | **Public filing links, not an automatic holdings feed** |
 
 ## Quick Start
 
@@ -96,9 +96,9 @@ Despite radically different styles, all 15 converge on these:
 
 5. **Long-term > Short-term** -- Buffett: "My favorite holding period is forever." Exception: Renaissance profits from short-term statistical arbitrage.
 
-## 13F Tracking
+## Read Dated 13F Filings
 
-Quarterly institutional holdings from SEC EDGAR (free, public):
+Public SEC EDGAR filing links are reference starting points, not a built-in data collector. Verify the reporting entity, filing period and publication date before drawing a holdings comparison:
 
 | Master | CIK | EDGAR Link |
 |--------|-----|-----------|
@@ -150,7 +150,7 @@ investment-masters/
 
 ## Related
 
-- **[AlphaGBM Skills](https://github.com/AlphaGBM/skills)** -- 26 AI skills for options intelligence with real market data
+- **[AlphaGBM Skills](https://github.com/AlphaGBM/skills)** -- research workflows and focused tools; see the current catalogue for package counts and API availability
 - **[AlphaGBM](https://alphagbm.com)** -- Full platform: stock analysis, options scoring, strategy builder
 
 ## Contributing

@@ -74,13 +74,13 @@ Compare Dalio and Buffett on risk management
 How do Soros and Marks differ on market cycles?
 ```
 
-### Track 13F Holdings
+### Read a 13F filing
 
 ```
-What did Bridgewater buy/sell last quarter?
+Read the latest available Bridgewater 13F filing and list the reported holdings, filing period and source.
 ```
 
-13F data comes from [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=13F) -- free, public, updated quarterly.
+13F links below are free public starting points. This Skill does not fetch, refresh or track holdings automatically; only report a holding after reading the dated filing.
 
 | Master | CIK | Filing Entity |
 |--------|-----|--------------|
