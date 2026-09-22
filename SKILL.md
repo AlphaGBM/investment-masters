@@ -77,7 +77,7 @@ How do Soros and Marks differ on market cycles?
 ### Read a 13F filing
 
 ```
-Read the latest available Bridgewater 13F filing and list the reported holdings, filing period and source.
+Read a specified dated Bridgewater 13F filing and list the reported holdings, filing period and source.
 ```
 
 13F links below are free public starting points. This Skill does not fetch, refresh or track holdings automatically; only report a holding after reading the dated filing.
@@ -148,7 +148,7 @@ Dalio built the All-weather system. Simons built quantitative models. AQR built 
 
 ## Suggested Research Cadence
 
-These are suggested manual review intervals, not background jobs shipped by this repository.
+These are suggested manual review intervals, not background jobs shipped by this repository. The `demo/` directory contains synthetic output fixtures for documentation only.
 
 - **13F holdings**: Quarterly (Feb/May/Aug/Nov, ~45 days after quarter end)
 - **Important letters/memos**: Event-driven, as published
