@@ -8,7 +8,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Masters](https://img.shields.io/badge/masters-15-green.svg)](#the-15-masters) [![13F](https://img.shields.io/badge/13F-SEC%20EDGAR-orange.svg)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=13F)
 
-[Quick Start](#quick-start) · [The 15 Masters](#the-15-masters) · [5 Common Principles](#5-common-principles) · [AlphaGBM Skills](https://github.com/AlphaGBM/skills)
+[Quick Start](#quick-start) · [The 15 Masters](#the-15-masters) · [Demo outputs](demo/README.md) · [5 Common Principles](#5-common-principles) · [AlphaGBM Skills](https://github.com/AlphaGBM/skills)
 
 </div>
 
@@ -21,6 +21,8 @@ Ask naturally: “Use investment-masters to examine this company through Buffett
 中文：像投资大师一样思考。默认展示巴菲特、德鲁肯米勒、彼得·林奇、达利欧，可展开全部15种视角。直接说：“请用 investment-masters，借鉴巴菲特的价值投资方法研究我提供的公司，区分已有证据和待核实信息。”
 
 This is a free methodology package, not investor endorsement, a live-data service or an automated 13F monitor. Current data requires an available retrieval tool or a supported [AlphaGBM Skill](https://github.com/AlphaGBM/skills) with its own access and shared-account allowance. Never paste an API key into a conversation. Missing data stays missing.
+
+The current catalogue has 15 profiles and four discovery defaults. The [demo files](demo/README.md) are synthetic examples of how an agent should separate a methodology lens, supplied evidence and questions still needing verification.
 
 ## What Is This?
 
@@ -58,9 +60,13 @@ Then ask your AI:
 >
 > "Compare Dalio and Marks on risk management"
 >
-> "What did Bridgewater buy last quarter?"
+> "Read a dated Bridgewater 13F filing and list the reported holdings, filing period and source."
 >
 > "Write a research report on the 5 common principles"
+
+## See a safe result shape
+
+The [demo comparison](demo/compare-buffett-marks.md) shows the intended output: methodology first, evidence boundaries second, and no invented current holdings. The [catalogue fixture](demo/masters-preview.json) is a compact, machine-readable view of the four defaults and all 15 available profiles.
 
 ## The 15 Masters
 
@@ -116,12 +122,12 @@ Public SEC EDGAR filing links are reference starting points, not a built-in data
 
 | Query | What the AI Does |
 |-------|-----------------|
-| "Distill Buffett's methodology" | Outputs full profile: principles, sizing, risk control, latest 13F, takeaways |
+| "Distill Buffett's methodology" | Outputs principles, sizing, risk control, evidence boundaries and takeaways |
 | "Compare Dalio vs Marks on risk" | Side-by-side analysis of risk philosophies |
-| "Ackman's latest 13F changes" | Pulls latest Pershing Square filing from EDGAR |
-| "What's the Tepper signal?" | Explains the panic-buying framework with current market indicators |
+| "Read a dated Ackman 13F filing" | Separates reported holdings, filing period and source |
+| "Apply Tepper's lens to these indicators" | Applies the framework to indicators supplied or retrieved by a supported tool |
 | "Write a report on master principles" | Generates structured article from the 5 common principles |
-| "How would Soros view today's market?" | Applies reflexivity framework to current conditions |
+| "Apply Soros' lens to this case" | Applies reflexivity questions to evidence supplied by the user |
 
 ## Project Structure
 
@@ -129,6 +135,8 @@ Public SEC EDGAR filing links are reference starting points, not a built-in data
 investment-masters/
 ├── README.md           # This file
 ├── SKILL.md            # AI agent skill definition
+├── catalog.json        # Bilingual website and agent discovery catalogue
+├── demo/                # Synthetic output fixtures for documentation
 ├── LICENSE             # MIT
 └── masters/            # Individual master profiles
     ├── ackman.md
@@ -158,6 +166,7 @@ investment-masters/
 Want to add a master or improve a profile? PRs welcome:
 
 - Add new master profiles following the template in SKILL.md
+- Update `catalog.json` and the demo fixture when adding or renaming a profile
 - Update 13F holdings after each quarterly filing
 - Add notable quotes, interviews, or new publications
 - Translations (currently EN + CN)
