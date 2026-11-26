@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Questions / 使用提问"
+    url: https://github.com/AlphaGBM/skills/discussions/categories/q-a
+    about: "Ask in English or Chinese; mention investment-masters. 请注明来源仓库，不要贴密钥或私人账户信息。"
+  - name: "Report a problem / 问题反馈"
+    url: https://github.com/AlphaGBM/skills/issues/new/choose
+    about: "Use the shared forms and mention investment-masters. 已有本仓 Issue 不必重复提交。"

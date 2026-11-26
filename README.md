@@ -12,6 +12,12 @@
 
 </div>
 
+## Questions and feedback / 提问与反馈
+
+Use the shared [AlphaGBM Skills Q&A](https://github.com/AlphaGBM/skills/discussions/categories/q-a) for usage questions, or the [issue forms](https://github.com/AlphaGBM/skills/issues/new/choose) for installation failures and actionable improvements. Mention `investment-masters` and the relevant file or profile. Bugs specific to this repository can also be tracked here; please do not open duplicates.
+
+中英文都可；请注明来自 `investment-masters`。不要贴 API Key、账户、私人持仓或未经许可的研报。讨论用于方法与证据核验，不提供个人买卖建议。See the [welcome guide](https://github.com/AlphaGBM/skills/discussions/21) for examples and boundaries.
+
 ## Think Like Investing Legends
 
 Start with Buffett (value), Druckenmiller (macro trading), Lynch (growth) or Dalio (asset allocation). All 15 profiles are included in one Skill; the first four are discovery defaults, not a performance ranking. The bilingual [catalogue](catalog.json) also drives the AlphaGBM website's compact list.
