@@ -14,7 +14,7 @@
 
 ## Questions and feedback / 提问与反馈
 
-Use the shared [AlphaGBM Skills Q&A](https://github.com/AlphaGBM/skills/discussions/categories/q-a) for usage questions, or the [issue forms](https://github.com/AlphaGBM/skills/issues/new/choose) for installation failures and actionable improvements. Mention `investment-masters` and the relevant file or profile. Bugs specific to this repository can also be tracked here; please do not open duplicates.
+Use the shared [AlphaGBM Skills Q&A](https://github.com/AlphaGBM/skills/discussions/categories/q-a) for usage questions, or the [issue forms](https://github.com/AlphaGBM/skills/issues/new/choose) for all new bug reports and actionable improvements, including those specific to this repository. Mention `investment-masters` and the relevant file or profile. If an issue already exists here, continue in that thread; maintainers can keep or transfer existing work without asking you to open a duplicate.
 
 中英文都可；请注明来自 `investment-masters`。不要贴 API Key、账户、私人持仓或未经许可的研报。讨论用于方法与证据核验，不提供个人买卖建议。See the [welcome guide](https://github.com/AlphaGBM/skills/discussions/21) for examples and boundaries.
 
@@ -47,6 +47,8 @@ This is not "AI roleplay as Buffett." This is **methodology extraction** -- unde
 | Filing research | Varies | Varies | **Public filing links, not an automatic holdings feed** |
 
 ## Quick Start
+
+For a dated, project-local Codex check, see the [2026-11-27 installation record](https://github.com/AlphaGBM/skills/blob/main/docs/INSTALLATION-CHECK-2026-11-27.md). It verifies installation and client discovery, not research quality or live data. The Claude Code and Cursor paths below are setup examples, not additional clients validated by that record.
 
 ### For Claude Code
 
