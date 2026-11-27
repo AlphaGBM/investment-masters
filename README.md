@@ -171,6 +171,10 @@ investment-masters/
 
 ## Contributing
 
+For all new questions, use the [shared Skills Q&A](https://github.com/AlphaGBM/skills/discussions/categories/q-a). For new bugs, installation failures, documentation gaps or scoped proposals, use the [Skills issue forms](https://github.com/AlphaGBM/skills/issues/new/choose), including problems specific to this repository; mention `investment-masters`. If an issue already exists here, continue in that thread instead of opening a duplicate.
+
+新问题请使用共享 Skills Q&A；新缺陷、安装失败、文档问题或具体改进建议请使用上述 Skills 表单，并注明 `investment-masters`。若本仓已有对应 Issue，请在原帖继续，不必重复开帖。
+
 Want to add a master or improve a profile? PRs welcome:
 
 - Add new master profiles following the template in SKILL.md
