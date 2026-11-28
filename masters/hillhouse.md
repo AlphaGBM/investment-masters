@@ -36,8 +36,10 @@ Long-term value creation through deep research, concentrated bets on structural 
 | Baidu | AI/autonomous driving transformation | Contrarian long-term bet |
 | Blue Moon | China consumer brand + direct-to-consumer | Consumption upgrade thesis |
 
-## Latest Holdings (13F)
-*CIK: 0001510057 -- updated quarterly via SEC EDGAR*
+## Undated holdings notes — not current data
+
+These legacy notes have no verified as-of date. Do not use weights or positions as current facts; read a dated original filing before making a holdings claim.
+*CIK: 0001510057 -- filing lookup via SEC EDGAR; this profile does not auto-update*
 
 *Note: Hillhouse's 13F only shows US-listed positions. The majority of their AUM is in China/HK-listed companies not captured by SEC filings.*
 
@@ -48,7 +50,9 @@ Long-term value creation through deep research, concentrated bets on structural 
 
 *Check latest: [SEC EDGAR - Hillhouse 13F](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001510057&type=13F&dateb=&owner=include&count=10)*
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - From *Value* (2020): "Long-termism is not about how long you hold, but whether you create value over time"
 - On China tech regulation (2021-2022): "Short-term pain for long-term industry health"
 

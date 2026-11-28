@@ -25,8 +25,10 @@ Buy wonderful companies at fair prices, hold forever, and let compounding do the
 - Avoids leverage on equity positions
 - Uses insurance float as "free" leverage instead
 
-## Latest Holdings (13F)
-*CIK: 0001067983 -- updated quarterly via SEC EDGAR*
+## Undated holdings notes — not current data
+
+These legacy notes have no verified as-of date. Do not use weights or positions as current facts; read a dated original filing before making a holdings claim.
+*CIK: 0001067983 -- filing lookup via SEC EDGAR; this profile does not auto-update*
 
 | Top Holdings | Approx. Weight | Notes |
 |-------------|---------------|-------|
@@ -38,7 +40,9 @@ Buy wonderful companies at fair prices, hold forever, and let compounding do the
 
 *Check latest: [SEC EDGAR - Berkshire 13F](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=13F&dateb=&owner=include&count=10)*
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - "The stock market is a device for transferring money from the impatient to the patient."
 - On AI (2024 shareholder meeting): Compared AI to nuclear weapons -- enormous potential, but "we let the genie out of the bottle" with uncertain consequences.
 

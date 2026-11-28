@@ -23,8 +23,10 @@ Diversify across uncorrelated return streams, balance risk not dollars, and buil
 - Stress testing against historical crises (1929, 1971 Nixon shock, 2008, COVID)
 - Correlation monitoring: if correlations spike, reduce exposure
 
-## Latest Holdings (13F)
-*CIK: 0001350694 -- updated quarterly via SEC EDGAR*
+## Undated holdings notes — not current data
+
+These legacy notes have no verified as-of date. Do not use weights or positions as current facts; read a dated original filing before making a holdings claim.
+*CIK: 0001350694 -- filing lookup via SEC EDGAR; this profile does not auto-update*
 
 | Top Holdings | Approx. Weight | Notes |
 |-------------|---------------|-------|
@@ -36,7 +38,9 @@ Diversify across uncorrelated return streams, balance risk not dollars, and buil
 
 *Check latest: [SEC EDGAR - Bridgewater 13F](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001350694&type=13F&dateb=&owner=include&count=10)*
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - "Cash is trash" (in low-rate environment) -- but reversed stance as rates rose in 2022-2023
 - On the current cycle: Emphasizes "big cycle" framework -- debt, political, and international order cycles all converging
 

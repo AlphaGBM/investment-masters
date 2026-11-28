@@ -46,7 +46,9 @@ not a point of rest.
 | Leverage | Deleveraging | Easy money, covenant-lite |
 | VIX | Elevated (>30) | Suppressed (<15 for extended period) |
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - Oaktree memos (free on oaktree.com) provide real-time cycle commentary
 - Recent theme: "Sea change" in interest rates -- the 40-year bond bull market is over. Implications for all asset valuations.
 

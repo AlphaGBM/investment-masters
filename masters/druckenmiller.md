@@ -22,11 +22,15 @@ Top-down macro plus bottom-up timing: make big, concentrated, asymmetric bets wh
 - **Cut fast when wrong**: reverse a position entirely when the macro picture changes -- never marry a trade
 - Bet size is the lever: be right or wrong small, but bet big only when the edge is clear
 
-## Latest Holdings (13F)
+## Undated holdings notes — not current data
+
+These legacy notes have no verified as-of date. Do not use weights or positions as current facts; read a dated original filing before making a holdings claim.
 Duquesne Family Office files a 13F covering US long equity and options only -- macro, FX, and futures positions are not captured, so the filing is a partial view.
 *Search latest: [SEC EDGAR -- 13F "Duquesne Family Office"](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Duquesne&type=13F&dateb=&owner=include&count=10)*
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - Frequent commentator on Fed policy, fiscal deficits, and AI as a multi-year investment theme
 - Repeated warning that excessive money printing and large deficits distort markets and raise inflation risk
 
