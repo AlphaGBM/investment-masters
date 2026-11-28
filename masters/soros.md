@@ -30,8 +30,10 @@ Markets are driven by reflexivity -- perceptions change fundamentals, which chan
 | 1997 | Short Thai Baht | Asian currency pegs unsustainable | Massive profit |
 | 2008 | Long/short across financial crisis | Reflexive credit boom would bust | +$1.1B in 2008 |
 
-## Latest Holdings (13F)
-*CIK: 0001029160 -- updated quarterly via SEC EDGAR*
+## Undated holdings notes — not current data
+
+These legacy notes have no verified as-of date. Do not use weights or positions as current facts; read a dated original filing before making a holdings claim.
+*CIK: 0001029160 -- filing lookup via SEC EDGAR; this profile does not auto-update*
 
 Soros Fund Management now primarily manages family wealth. 13F still filed but less indicative of macro bets (which are often in derivatives not captured by 13F).
 

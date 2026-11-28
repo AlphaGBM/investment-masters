@@ -29,8 +29,10 @@ Be greedy when others are terrified. The biggest returns come from buying qualit
 | 2011 | Long risk after European debt crisis | "Best economy in world is US" | Large gains |
 | 2020 | Long risk after COVID crash | Unlimited Fed easing = buy everything | Significant gains |
 
-## Latest Holdings (13F)
-*CIK: 0001656456 -- updated quarterly via SEC EDGAR*
+## Undated holdings notes — not current data
+
+These legacy notes have no verified as-of date. Do not use weights or positions as current facts; read a dated original filing before making a holdings claim.
+*CIK: 0001656456 -- filing lookup via SEC EDGAR; this profile does not auto-update*
 
 | Top Holdings | Approx. Weight | Notes |
 |-------------|---------------|-------|

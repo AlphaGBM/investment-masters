@@ -53,8 +53,10 @@ Take 8-12 concentrated positions in high-quality businesses with clear catalysts
 - Timing confidence: {1-10}
 ```
 
-## Latest Holdings (13F)
-*CIK: 0001336528 -- updated quarterly via SEC EDGAR*
+## Undated holdings notes — not current data
+
+These legacy notes have no verified as-of date. Do not use weights or positions as current facts; read a dated original filing before making a holdings claim.
+*CIK: 0001336528 -- filing lookup via SEC EDGAR; this profile does not auto-update*
 
 | Top Holdings | Approx. Weight | Notes |
 |-------------|---------------|-------|
@@ -66,7 +68,9 @@ Take 8-12 concentrated positions in high-quality businesses with clear catalysts
 
 *Check latest: [SEC EDGAR - Pershing Square 13F](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001336528&type=13F&dateb=&owner=include&count=10)*
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - On concentration: "Diversification is for people who don't know what they're doing"
 - On hedging: After the 2020 CDS trade, advocates keeping "cheap portfolio insurance" as a permanent allocation
 

@@ -23,7 +23,9 @@ Engineer-driven quantitative investing: use AI, large datasets, and full automat
 ## Why 13F Doesn't Help
 High-Flyer (幻方) is a China-based quant manager trading primarily A-shares; it does not file a US SEC 13F, and positions turn over far too quickly for quarterly snapshots to be useful. Liang is now best known as the founder of DeepSeek.
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - Argues China should move from "application" to fundamental innovation in AI; DeepSeek open-sourced competitive LLMs at a fraction of typical training cost
 - Frames quant investing and AGI research as the same pursuit: turning data and compute into a durable edge
 

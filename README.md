@@ -8,9 +8,18 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Masters](https://img.shields.io/badge/masters-15-green.svg)](#the-15-masters) [![13F](https://img.shields.io/badge/13F-SEC%20EDGAR-orange.svg)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=13F)
 
-[Quick Start](#quick-start) · [The 15 Masters](#the-15-masters) · [Demo outputs](demo/README.md) · [5 Common Principles](#5-common-principles) · [AlphaGBM Skills](https://github.com/AlphaGBM/skills)
+[Quick Start](#quick-start) · [Client setup](docs/INSTALLATION.md) · [Result examples](docs/EXPERIENCE.md) · [The 15 Masters](#the-15-masters) · [AlphaGBM Skills](https://github.com/AlphaGBM/skills)
 
 </div>
+
+## Start with one question / 先解决一个问题
+
+**Compare two investing lenses on the same evidence, rather than asking an AI to impersonate an investor.** No account or live-data service is needed for a comparison of the included methods.
+
+- “Compare Buffett and Marks on this thesis. Give the main disagreement and what evidence would resolve it.”
+- 「用巴菲特与马克斯的方法检查这份材料，先给结论、分歧和待核问题。」
+
+Replies follow your language and lead with useful findings, then sources and limitations. Only two relevant profiles are needed to start; all 15 remain available within one Skill. See [short result examples](docs/EXPERIENCE.md). For event attribution or a decision journal use [Trading Skills](https://github.com/AlphaGBM/alphagbm-trading-skills); for account-backed research check [Skills](https://github.com/AlphaGBM/skills) and its access requirements. Installing this method does not grant either service.
 
 ## Questions and feedback / 提问与反馈
 
@@ -48,19 +57,15 @@ This is not "AI roleplay as Buffett." This is **methodology extraction** -- unde
 
 ## Quick Start
 
-For a dated, project-local Codex check, see the [2026-11-27 installation record](https://github.com/AlphaGBM/skills/blob/main/docs/INSTALLATION-CHECK-2026-11-27.md). It verifies installation and client discovery, not research quality or live data. The Claude Code and Cursor paths below are setup examples, not additional clients validated by that record.
-
-### For Claude Code
+Run in the intended project, preferably a fresh directory. This explicitly targets one client; it does not install into every agent:
 
 ```bash
-git clone https://github.com/AlphaGBM/investment-masters.git .claude/skills/investment-masters
+npx skills@1.9.0 add https://github.com/AlphaGBM/investment-masters/tree/onboarding-v1 --skill investment-masters --agent codex --copy -y
 ```
 
-### For Cursor
+For Claude Code replace `codex` with `claude-code`; for Cursor use `cursor`. Read [installation and upgrade instructions](docs/INSTALLATION.md) for the actual target paths, WorkBuddy directory setup, Doubao file workflow and existing-install protection. Existing copies do not auto-update.
 
-```bash
-git clone https://github.com/AlphaGBM/investment-masters.git .cursor/skills/investment-masters
-```
+For historical project-local discovery evidence see the [2026-11-27 record](https://github.com/AlphaGBM/skills/blob/main/docs/INSTALLATION-CHECK-2026-11-27.md); it is not proof of this release's host behavior or live research.
 
 Then ask your AI:
 

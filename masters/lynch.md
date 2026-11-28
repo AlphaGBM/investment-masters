@@ -24,7 +24,9 @@ Invest in what you know, do the homework, and find "ten-baggers" early -- growth
 ## Track Record (not a current 13F filer)
 Lynch ran Fidelity's Magellan Fund from 1977 to 1990, compounding roughly 29% per year and growing assets from about $18M to ~$14B. He retired from active management in 1990, so there is no current 13F to track -- his methodology lives in his books and the Magellan record.
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - Long retired; his enduring message is that ordinary investors can beat Wall Street by leveraging firsthand knowledge and patience
 - "The real key to making money in stocks is not to get scared out of them"
 

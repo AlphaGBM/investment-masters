@@ -43,7 +43,9 @@ AQR's 13F shows long equity positions from their registered funds, but misses:
 - Futures and derivatives exposure
 - Non-equity factor positions (bonds, currencies, commodities)
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - "Value is not dead, it was just expensive for a while" (post-2020 recovery)
 - Vocal critic of private equity's return smoothing and leverage
 - 200+ published research papers at [aqr.com/insights](https://www.aqr.com/insights)

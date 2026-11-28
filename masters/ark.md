@@ -38,8 +38,10 @@ Bet big on disruptive innovation platforms -- AI, robotics, genomics, blockchain
 | 2022 | -67% | -19% | Historic drawdown |
 | 2023 | +68% | +24% | AI boom partial recovery |
 
-## Latest Holdings (13F)
-*CIK: 0001803918 -- updated quarterly via SEC EDGAR*
+## Undated holdings notes — not current data
+
+These legacy notes have no verified as-of date. Do not use weights or positions as current facts; read a dated original filing before making a holdings claim.
+*CIK: 0001803918 -- filing lookup via SEC EDGAR; this profile does not auto-update*
 
 *Note: ARK publishes daily holdings, so the 13F is less useful than their own website.*
 

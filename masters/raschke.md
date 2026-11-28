@@ -24,7 +24,9 @@ Short-term technical trading with strict risk control: read market structure and
 ## Why 13F Doesn't Help
 Raschke is a short-term technical trader (LBRGroup); positions turn over in hours to days and are not disclosed via 13F. Her methodology lives in her books, interviews, and decades of trading.
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - Emphasizes that routine, consistency, and risk discipline -- not prediction -- separate professionals from amateurs
 - Profiled in *The New Market Wizards* as one of the few women featured
 

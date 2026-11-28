@@ -25,7 +25,9 @@
 Duan manages US-listed capital through H&H International Investment, a 13F filer; his largest disclosed position has long been Apple, alongside names such as Berkshire and Alphabet. A-share/HK holdings (e.g., Kweichow Moutai, Tencent) sit outside US 13F.
 *Search latest: [SEC EDGAR -- 13F "H&H International"](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=H%26H+International&type=13F&dateb=&owner=include&count=10)*
 
-## Recent Views
+## Undated view notes — verify attribution
+
+These notes are not authenticated current statements. Check the dated original before quoting or attributing a present view.
 - Posts widely on Xueqiu (雪球) under the handle 大道无形我有型, discussing 本分, 平常心, and long-term ownership
 - Won the 2006 charity lunch with Warren Buffett ($620,100); mentored Pinduoduo founder Colin Huang (黄峥). Background: founder of BBK (步步高), the parent lineage behind OPPO and vivo
 
